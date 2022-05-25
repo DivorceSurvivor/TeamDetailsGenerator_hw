@@ -16,6 +16,10 @@ This application has 3 types of team members:
 
 ## Demo
 
+
+https://user-images.githubusercontent.com/86085901/170251673-b8459f40-40dd-4053-a528-e884a94e1eb3.mp4
+
+
 You can find a sample html in _/dist_ directory.
 
 ## Usage
